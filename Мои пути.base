@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Таблица
+    order:
+      - file.name
+      - file.basename
+      - file.folder
+    columnSize:
+      file.name: 260
+      file.basename: 258
