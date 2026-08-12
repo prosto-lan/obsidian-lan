@@ -1,10 +1,16 @@
+formulas:
+  Без названия: ""
 views:
   - type: table
     name: Таблица
+    filters:
+      and:
+        - "!file.tags.isEmpty()"
     order:
       - file.name
       - file.basename
-      - file.folder
+      - file.tags
+    sort: []
     columnSize:
-      file.name: 260
-      file.basename: 258
+      file.name: 226
+      file.basename: 203
