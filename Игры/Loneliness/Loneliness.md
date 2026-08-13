@@ -8,7 +8,6 @@ Loneliness — это психологический 3d хоррор от пер
 Windows 10, Windows 11, Mac
 ###### **Локализация:** 
 Русский, Английский
-
 ###### **Архивные документы:** 
 **Новая версия:**
 https://docs.google.com/document/d/1nw5ZpOGwC-dWt-rRquyaOw4bdZkzcXNF3wU4KnG9IrQ/edit?tab=t.0
