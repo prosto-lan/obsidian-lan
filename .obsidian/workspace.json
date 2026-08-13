@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Development.md",
+                "file": "Игры/Deep Dream/Deep Dream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Development"
+              "title": "Deep Dream"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:in_progress",
+                "query": "tag:film",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Development.md",
+                "file": "Игры/Deep Dream/Deep Dream.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,23 +215,23 @@
   },
   "active": "a68e1e393eb94779",
   "lastOpenFiles": [
-    "Игры/NONE/NONE.md",
+    "Проекты.base",
+    "Призрак прошлого.md",
+    "Sound Design.md",
+    "Игры/Deep Dream/Deep Dream Sound Design.md",
     "Game Development.md",
+    "2026-08-12.md",
+    "Игры/Deep Dream/Deep Dream Locations and monologues.md",
+    "Игры/NONE/NONE.md",
+    "Игры/Loneliness/Loneliness Cutscenes.md",
+    "Игры/Deep Dream/Deep Dream.md",
     "Игры/NONE/NONE Locations.md",
     "Игры/Loneliness/Loneliness.md",
-    "Мои пути.base",
     "Игры/Loneliness/Images",
-    "Игры/Deep Dream/Deep Dream.md",
-    "Короткомеражный фильм.md",
-    "Sound Design.md",
-    "2026-08-12.md",
     "Без названия.md",
     "Без названия.base",
     "Без названия.canvas",
-    "Игры/Loneliness/Loneliness Cutscenes.md",
-    "Игры/Deep Dream/Deep Dream Locations and monologues.md",
     "Игры/Deep Dream/Deep Dream Models.md",
-    "Игры/Deep Dream/Deep Dream Sound Design.md",
     "Игры/Deep Dream/Deep Dream Plans.md",
     "Игры/Deep Dream/Images/DDLocParkPNG.png",
     "Игры/Deep Dream/Images/DDLocNecroPNG2.png",
