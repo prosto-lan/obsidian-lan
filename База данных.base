@@ -2,7 +2,7 @@ formulas:
   Без названия: ""
 views:
   - type: table
-    name: Таблица
+    name: Проекты
     filters:
       and:
         - "!file.tags.isEmpty()"
