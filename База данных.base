@@ -13,4 +13,4 @@ views:
     sort: []
     columnSize:
       file.name: 226
-      file.basename: 203
+      file.basename: 202
